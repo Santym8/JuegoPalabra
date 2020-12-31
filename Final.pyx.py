@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 
 
-palabra="murcielago".upper()
+palabra="Hola".upper()       #Palabra para adivinar
 VidasPantalla=5
 tusletras=[]
 ListaPalabra=[]
